@@ -82,6 +82,8 @@ Data is being upload by following R-commands
 <h3>Task 1 – Merging and Training Datasets</h3>
 Since “train” and “test” data are stored separately, I combined “train” data first and on the same lines I combined “train” data. After combining the both datasets were merged to fulfil the requirement of Task 1.
 Merging the data available in different files follows following thematic diagram
+
+
 ![Thematic diagram for binding different parts of data together](https://lh3.googleusercontent.com/-jztiJAoFgJI/VdWJxhCIiJI/AAAAAAAAAr8/iBDn0IbzaU8/s600/Thematic+diagram+for+binding+different+parts+of+data+together..png "Thematic diagram for binding different parts of data together..png")
 
     #TRAIN
