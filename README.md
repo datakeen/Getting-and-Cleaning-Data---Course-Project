@@ -1,7 +1,8 @@
 
-
-
 #READ ME
+This data manipulation work which includes and R-Script (run_analysis.R), a code book(CodeBook.md), a read me fine(README.md) and output data file (MyTidyData.txt). The main task include merging and tidying a scattered dataset
+
+##In addition...
 
 Following detail is acquired from the data providers  and is provided as is for the sake of referencing and as mentioned in License for use of this data.
 For details about processing of this data please read `CodeBook.md` and for R-script check `run_analysis.R`.
